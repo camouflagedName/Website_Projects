@@ -1,0 +1,57 @@
+.navbar-brand {
+	border-radius: 0;
+	border: 0;
+}
+
+
+.navbar-brand h1 {
+	font-size: 2em;
+	font-weight: bold;
+	line-height: 0.25;
+	padding: 10px;
+}
+
+
+#logo {
+	width: 150px;
+	height: 150px;
+	background: url("../Pics/Logo-sm.jpg") no-repeat;
+	margin: 10px;
+	float: left;
+}
+
+#div_bar{
+	height: auto;
+}
+
+#div_title{
+	float: left;	
+	padding: 40px 10px;
+}
+
+#header_nav{
+	height: auto;
+}
+
+#header_nav a{
+	height: auto;
+}
+
+.container.footer{
+	background-color: #e9ecef;
+}
+.container.footer:after{
+	background-color: #e9ecef;
+}
+.container.footer:before{
+	background-color: #e9ecef;
+}
+
+#navbarText{
+	font-size: 2em;
+}
+
+th{
+
+	font-weight: normal;
+}
